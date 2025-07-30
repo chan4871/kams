@@ -13,11 +13,11 @@ https://chan4871.github.io/kams/
 
 
 ### 사용 기술 스택
-```html
+- html
 - HTML5
 - CSS3
 - JavaScript (Vanilla)
-```
+
 
 ### 기여도 및 주요 개선 사항
 기여도 : 100%, 기획 - 디자인 - 개발
